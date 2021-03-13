@@ -438,7 +438,7 @@ main {
 }
 
 .basic {
-  background-color: var(--secondary-blue);
+  background-color: var(--soft-blue);
   color: var(--just-white);
 }
 .life {
